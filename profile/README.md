@@ -171,6 +171,6 @@ graph LR
 
 **© 2024 KrownSoft - Transformando el futuro con tecnología**
 
-_Hecho con ❤️ en Argentina 🇦🇷_
+_Hecho en Argentina 🇦🇷_
 
 </div>
