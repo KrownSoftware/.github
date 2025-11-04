@@ -94,15 +94,7 @@ graph LR
 
 ---
 
-## 📊 Métricas y Logros
-
-<div align="center">
-
-**+50** Proyectos | **+20** Clientes | **+3** Años de Experiencia
-
-</div>
-
-### 🏆 Estándares de Calidad
+## 🏆 Estándares de Calidad
 
 - ✅ **+95%** Cobertura de tests
 - ✅ **<200ms** Tiempo de respuesta promedio
